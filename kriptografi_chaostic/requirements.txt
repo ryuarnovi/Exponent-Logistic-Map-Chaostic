@@ -1,0 +1,4 @@
+numpy
+matplotlib
+jupyter
+# pinned versions can be added with pip freeze > requirements.txt after activation
