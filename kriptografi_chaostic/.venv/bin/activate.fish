@@ -29,7 +29,7 @@ end
 # Unset irrelevant variables.
 deactivate nondestructive
 
-set -gx VIRTUAL_ENV "/Users/macbookpro/Documents/Tugas Kuliah/.venv"
+set -gx VIRTUAL_ENV "/Users/macbookpro/Documents/Tugas Kuliah/kriptografi_chaostic/.venv"
 
 set -gx _OLD_VIRTUAL_PATH $PATH
 set -gx PATH "$VIRTUAL_ENV/bin" $PATH
